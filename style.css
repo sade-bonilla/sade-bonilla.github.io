@@ -25,7 +25,7 @@ main{padding:3rem 0 4rem;max-width:44rem}
 h1{font-size:2rem;line-height:1.2;margin:0 0 1rem;font-weight:600;letter-spacing:-.005em}
 h2{font-family:var(--sans);font-size:1.05rem;font-weight:700;margin:2.75rem 0 1rem;padding-top:.9rem;border-top:1px solid var(--rule)}
 h3{font-size:1.05rem;margin:1.5rem 0 .4rem;font-weight:600}
-.portrait{float:right;width:12rem;height:15rem;object-fit:cover;margin:.35rem 0 1rem 1.75rem;border-radius:3px;background:var(--band)}
+.side-photo{display:block;width:11rem;height:13.75rem;object-fit:cover;margin:0 0 1.1rem;border-radius:3px;background:var(--band)}
 .lead{font-size:1.55rem;line-height:1.4;margin:0 0 1.5rem;letter-spacing:-.005em}
 .lead-sm{color:var(--muted);margin-top:0}
 .pubs{list-style:none;margin:0;padding:0}
@@ -59,7 +59,7 @@ footer{margin-top:4rem;padding-top:1rem;border-top:1px solid var(--rule);font-fa
   .side nav li a[aria-current="page"]{border-bottom-color:var(--accent)}
   main{padding-top:1.5rem}
   .lead{font-size:1.3rem}
-  .portrait{width:8.5rem;height:10.6rem;margin-left:1rem}
+  .side-photo{width:7.5rem;height:9.4rem}
   .pubs li{grid-template-columns:3.4rem 1fr}
 }
 @media print{.side nav,.ext,.skip,.btn{display:none}.shell{display:block}body{background:#fff}}
