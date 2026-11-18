@@ -38,6 +38,7 @@ h3{font-size:1.05rem;margin:1.5rem 0 .4rem;font-weight:600}
 .ptitle{font-weight:600;text-decoration:none}
 .ptitle:hover{text-decoration:underline}
 .ptitle.plain{color:var(--ink)}
+.oa{display:inline-block;font-family:var(--sans);font-size:.72rem;font-weight:700;letter-spacing:.02em;color:#1d6b3a;border:1px solid #1d6b3a;border-radius:3px;padding:.02rem .4rem;margin-left:.35rem;white-space:nowrap;vertical-align:.08em}
 .pmeta{font-size:.95rem;color:var(--muted);line-height:1.5}
 .plainlist{list-style:none;padding:0;margin:0}
 .plainlist li{padding:.4rem 0}
